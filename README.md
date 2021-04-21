@@ -27,21 +27,19 @@ Kivy는 MIT 라이센스를 받았으며 훌륭한 커뮤니티에서 적극적�
 Installation, Documentation and Examples
 ----------------------------------------
 
-Extensive installation instructions as well as tutorials and general
-documentation, including an API reference, can be found at https://kivy.org/docs.
-A [PDF version](https://media.readthedocs.org/pdf/kivy/latest/kivy.pdf) is also available.
+https://kivy.org/docs에서 광범위한 설치 지침과 자습서 및 일반 문서 (API 참조 포함)를 찾을 수 있습니다. [PDF version](https://media.readthedocs.org/pdf/kivy/latest/kivy.pdf)도 제공됩니다.
 
-Kivy ships with many examples which can be found in the `examples` folder.
+Kivy는 `examples` 폴더에서 찾을 수있는 많은 예제와 함께 제공됩니다.
 
 Support
 -------
 
-If you need assistance, you can ask for help on our mailing list:
+도움이 필요하면 메일 링리스트에서 도움을 요청할 수 있습니다:
 
 * User Group : https://groups.google.com/group/kivy-users
 * Email      : kivy-users@googlegroups.com
 
-We also have a Discord channel:
+Discord 채널도 있습니다:
 
 * Server     : https://chat.kivy.org
 * Channel    : #support
@@ -49,12 +47,9 @@ We also have a Discord channel:
 Contributing
 ------------
 
-We love pull requests and discussing novel ideas. Check out our
-[contribution guide](https://kivy.org/docs/contribute.html) and
-feel free to improve Kivy.
+우리는 풀 리퀘스트와 참신한 아이디어 토론을 좋아합니다. 우리의 [기여 가이드](https://kivy.org/docs/contribute.html)를 확인하고 자유롭게 Kivy를 개선하십시오.
 
-The following mailing list and Discord channel are used exclusively for
-discussions about developing the Kivy framework and its sister projects:
+다음 메일 링리스트와 Discord 채널은 Kivy 프레임 워크 및 자매 프로젝트 개발에 대한 토론에만 사용됩니다.
 
 * Dev Group : https://groups.google.com/group/kivy-dev
 * Email     : kivy-dev@googlegroups.com
@@ -64,7 +59,7 @@ Discord channel:
 * Server     : https://chat.kivy.org
 * Channel    : #dev
 
-Sister projects
+자매 프로젝트
 ---------------
 
 - [Buildozer](https://github.com/kivy/buildozer): generic Python packager
@@ -87,7 +82,7 @@ Sister projects
 * [Oscpy](https://github.com/kivy/oscpy/): a fast and tested python2/3
   implementation of OSC.
 
-Licenses
+라이센스
 --------
 
 - Kivy is released under the terms of the MIT License. Please refer to the
