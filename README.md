@@ -9,7 +9,7 @@ Kivy는 혁신적인 멀티 터치 사용자 인터페이스를 사용하는 애
 
 Kivy는 OpenGL ES 2를 기반으로 Python 및 [Cython](http://cython.org/)으로 작성되었으며 다양한 입력 장치를 지원하며 광범위한 위젯 라이브러리가 있습니다. 동일한 코드베이스로 Windows, macOS, Linux, Android 및 iOS를 대상으로 지정할 수 있습니다. 모든 Kivy 위젯은 멀티 터치 지원으로 구축되었습니다.
 
-Kivy는 MIT 라이센스를 받았으며 훌륭한 커뮤니티에서 적극적으로 개발했으며 [Kivy Organization](https://kivy.org/#organization)에서 관리하는 많은 프로젝트에서 지원됩니다.
+Kivy는 MIT 라이센스를 받았으며 훌륭한 커뮤니티에서 적극적으로 개발했으며 [Kivy Organization](https://kivy.org/#organization) 에서 관리하는 많은 프로젝트에서 지원됩니다.
 
 [![Bountysource](https://www.bountysource.com/badge/tracker?tracker_id=42681)](https://www.bountysource.com/trackers/42681-kivy?utm_source=42681&utm_medium=shield&utm_campaign=TRACKER_BADGE)
 [![Backers on Open Collective](https://opencollective.com/kivy/backers/badge.svg)](#backers)
@@ -27,7 +27,7 @@ Kivy는 MIT 라이센스를 받았으며 훌륭한 커뮤니티에서 적극적�
 Installation, Documentation and Examples
 ----------------------------------------
 
-https://kivy.org/docs에서 광범위한 설치 지침과 자습서 및 일반 문서 (API 참조 포함)를 찾을 수 있습니다. [PDF version](https://media.readthedocs.org/pdf/kivy/latest/kivy.pdf)도 제공됩니다.
+https://kivy.org/docs 에서 광범위한 설치 지침과 자습서 및 일반 문서 (API 참조 포함)를 찾을 수 있습니다. [PDF version](https://media.readthedocs.org/pdf/kivy/latest/kivy.pdf)도 제공됩니다.
 
 Kivy는 `examples` 폴더에서 찾을 수있는 많은 예제와 함께 제공됩니다.
 
