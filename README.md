@@ -3,21 +3,13 @@ Kivy
 
 <img align="right" height="256" src="https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png"/>
 
-Innovative user interfaces made easy.
+혁신적인 사용자 인터페이스가 쉬워졌습니다.
 
-Kivy is an open source, cross-platform [Python](https://www.python.org)
-framework for the development of applications that make use of innovative,
-multi-touch user interfaces.
-The aim is to allow for quick and easy interaction design and rapid prototyping
-whilst making your code reusable and deployable.
+Kivy는 혁신적인 멀티 터치 사용자 인터페이스를 사용하는 애플리케이션 개발을위한 오픈 소스 크로스 플랫폼 [Python](https://www.python.org) 프레임 워크입니다. 목표는 코드를 재사용 및 배포 가능하게 만드는 동시에 빠르고 쉬운 상호 작용 디자인과 신속한 프로토 타이핑을 허용하는 것입니다.
 
-Kivy is written in Python and [Cython](http://cython.org/), based on OpenGL ES
-2, supports various input devices and has an extensive widget library. With the
-same codebase, you can target Windows, macOS, Linux, Android and iOS. All Kivy
-widgets are built with multitouch support.
+Kivy는 OpenGL ES 2를 기반으로 Python 및 [Cython](http://cython.org/)으로 작성되었으며 다양한 입력 장치를 지원하며 광범위한 위젯 라이브러리가 있습니다. 동일한 코드베이스로 Windows, macOS, Linux, Android 및 iOS를 대상으로 지정할 수 있습니다. 모든 Kivy 위젯은 멀티 터치 지원으로 구축되었습니다.
 
-Kivy is MIT licensed, actively developed by a great community and is supported
-by many projects managed by the [Kivy Organization](https://kivy.org/#organization).
+Kivy는 MIT 라이센스를 받았으며 훌륭한 커뮤니티에서 적극적으로 개발했으며 [Kivy Organization](https://kivy.org/#organization)에서 관리하는 많은 프로젝트에서 지원됩니다.
 
 [![Bountysource](https://www.bountysource.com/badge/tracker?tracker_id=42681)](https://www.bountysource.com/trackers/42681-kivy?utm_source=42681&utm_medium=shield&utm_campaign=TRACKER_BADGE)
 [![Backers on Open Collective](https://opencollective.com/kivy/backers/badge.svg)](#backers)
